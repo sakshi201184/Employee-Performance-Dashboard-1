@@ -1,0 +1,51 @@
+# 🏦 Banking Dashboard (Power BI)
+
+## 📌 Project Overview
+
+This project is a Banking Dashboard created using Microsoft Power BI to analyze customer and transaction data.
+
+## 📊 Dataset
+
+* Customers Data
+* Transactions Data
+  (Common column: CustomerID)
+
+## 🎯 Objectives
+
+* Analyze customer behavior
+* Track transaction patterns
+* Provide meaningful insights
+
+## 📈 Visualizations Used
+
+* Stack Column Chart
+* Line Chart
+* Stack Bar Chart
+* Pie Chart
+* Donut Chart
+* Cards
+* Slicers
+* Map
+
+## 🛠 Tools Used
+
+* Microsoft Power BI
+* CSV Files
+
+## 🔗 Data Model
+
+* One-to-Many relationship between Customers and Transactions using CustomerID
+
+## 🧠 Insights
+
+* Deposits are higher than withdrawals
+* Some cities have higher balance
+* Transaction trends vary over time
+
+## 📷 Dashboard Preview
+
+(Add your screenshot here)
+
+## 👩‍💻 Author
+
+* Sakshi S. Ingle
